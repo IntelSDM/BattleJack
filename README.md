@@ -5,7 +5,7 @@ Exploiting A Vulnerability In BattlEye's Launching Chain To Hijack Kernel Protec
 
 
 ## Instructions:
-* Download BEService_arksa into your C:\Program Files (x86)\Common Files\BattlEye <br>
+* Download [BEService_arksa](https://github.com/IntelSDM/BattleJack/releases) (from releases) into your C:\Program Files (x86)\Common Files\BattlEye <br>
 * Modify TargetGamePath in Main.c <br>
 * Compile with MSVC x64(Not LLVM/GCC) <br>
 * Run BattleJack <br>
